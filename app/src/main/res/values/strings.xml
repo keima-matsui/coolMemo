@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kadai06</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="touroku">登録</string>
+    <string name="hinmei">Product</string>
+    <string name="tenmei">Store Name</string>
+</resources>
